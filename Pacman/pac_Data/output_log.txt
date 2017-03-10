@@ -1,0 +1,123 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.3408
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.144 seconds
+Platform assembly: C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shajun\Desktop\Upload Today\Pacman\pac_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1366x768 60Hz; virtual: 2390x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Clyde - Pokey') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Inky - Bashful') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pinky - Speedy') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.828132 ms
+The referenced script on this Behaviour (Game Object 'UI') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'UI Manager') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'powerUp') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.458259 ms
+Level 0 Loaded!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 1.584207 ms (FindLiveObjects: 0.431970 ms CreateObjectMapping: 0.081762 ms MarkObjects: 0.997691 ms  DeleteObjects: 0.057186 ms)
+
+READING.....
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghosts Scared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghosts Scared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghosts Scared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghosts Scared
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+High Score: 4410
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+High Score: 4410
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Showing GAME OVER Screen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Clyde - Pokey') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Inky - Bashful') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Pinky - Speedy') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.908477 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.583680 ms (FindLiveObjects: 0.090269 ms CreateObjectMapping: 0.034500 ms MarkObjects: 0.391798 ms  DeleteObjects: 0.064748 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b80 -> priority: 1 
